@@ -33,6 +33,7 @@
     - lesson 32: Do/While loop (vòng lặp do/while)
     - lesson 33: Nested loop (vòng lặp lồng nhau)
     - lesson 34: Array Method (các phương thức của array)
+<<<<<<< HEAD
     - lesson 35: Math Object
     - lesson 36: Callback
     - lesson 37: Build new forEach() method (callback)
@@ -49,6 +50,8 @@
     - lesson 48: Enhanced object literals
     - lesson 49: Destructuring
     - lesson 50: Spread
+=======
+>>>>>>> 0e2db4486d6689cbdd11a368f026f31b8680f6a0
 
 ### Kiểu dữ liệu Boolean (true - false)
 Trong JS có 6 giá trị sau là Falsy:

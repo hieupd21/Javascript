@@ -4,7 +4,6 @@
 */
 
 // Ví dụ nạp thẻ
-
 var i = 0;
 var isSuccess = false;
 

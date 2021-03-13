@@ -3,7 +3,6 @@ Toán tử chuỗi
 */
 
 // Cách 1
-
 var firstName = 'Hiếu';
 var lastName = 'Phan';
 console.log(firstName + ' ' + lastName);

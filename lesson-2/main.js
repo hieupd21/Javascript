@@ -26,7 +26,6 @@ if (a > b) {
 }
 
 // Logic
-
 var a = 1;
 var b = 2;
 if (a > 0 || b < 0) {

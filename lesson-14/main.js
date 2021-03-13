@@ -47,7 +47,6 @@ var languages = 'JS, PHP, Ruby';
 console.log(languages.split(', ')); // cắt chuỗi thành array bằng điểm chung.
 
 // 9. get a character by index ( charAt() )
-
 var string2 = 'Duy Hiếu';
 console.log(string2.charAt(4)); // Lấy phần tử ở vị trí số 4 và console.log ra console.
 

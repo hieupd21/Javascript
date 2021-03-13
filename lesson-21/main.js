@@ -14,4 +14,3 @@ function declaration() {
 var expression = function() {
     console.log('Expression function');
 };
-

@@ -4,7 +4,6 @@
 */
 
 // Array
-
 var lang = [
     'JS',
     'PHP',

@@ -20,12 +20,10 @@ var c = a + b;
 console.log('a cộng b = ' + c);
 
 // Lũy thừa (**)
-
 var d = a ** b;
 console.log('a lũy thừa b = ' + d);
 
 // Chia lấy dư (%)
-
 var e = a % b;
 console.log('a chia lấy dư cho b = ' + e);
 
